@@ -1,0 +1,20 @@
+{
+  "name": "CoKitty",
+  "short_name": "CoKitty",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#171a33",
+  "theme_color": "#171a33",
+  "icons": [
+    {
+      "src": "https://theskibidirizzlers4-del.github.io/Co-Kitty/cokittyicon.PNG",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://theskibidirizzlers4-del.github.io/Co-Kitty/cokittyicon.PNG",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
