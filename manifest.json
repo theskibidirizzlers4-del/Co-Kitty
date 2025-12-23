@@ -3,7 +3,7 @@
   "short_name": "CoKitty",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#171a33",
+  "background_color": "https://theskibidirizzlers4-del.github.io/Co-Kitty/cokittyicon.PNG",
   "theme_color": "#171a33",
   "icons": [
     {
